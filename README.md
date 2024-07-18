@@ -8,10 +8,10 @@
 ## Social Impact: 
 The use of the WCE Curated colon disease classification system, coupled with deep learning algorithms, enhances the accuracy of colon disease diagnosis. This **leads to earlier detection and more precise tratment**, potentially saving lives and improving the overall health of patients.
 
-## Business impact: 
+## Business Impact: 
 Academic institutions and research organizations can use the curated dataset and research findings from the WCE curated colon disease classification system **to advance knowledge in the field of colon disease**, leading to scientific publications and grants.
   
-## Stack used: 
+## Stack Used: 
 Deep Learning, Artificial Intelligence, Tensorflow, Keras, Python, Flask.
 
 ## Contributors in the project:
