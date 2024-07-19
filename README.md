@@ -15,4 +15,5 @@ Academic institutions and research organizations can use the curated dataset and
 Deep Learning, Artificial Intelligence, Tensorflow, Keras, Python, Flask.
 
 ## Contributors in the project:
-1. Satakshi (https://github.com/Satakshi2703) 
+1. Satakshi (https://github.com/Satakshi2703)
+2. Manjara Raj (https://github.com/Mnj-ToTheTop)
