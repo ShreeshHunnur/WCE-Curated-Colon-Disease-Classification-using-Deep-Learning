@@ -18,3 +18,4 @@ Deep Learning, Artificial Intelligence, Tensorflow, Keras, Python, Flask.
 1. Satakshi (https://github.com/Satakshi2703)
 2. Manjara Raj (https://github.com/Mnj-ToTheTop)
 3. Shreesh Hunnur (https://github.com/ShreeshHunnur)
+4. Sumedh Deepak Kudale (https://github.com/SumedhKudale)
